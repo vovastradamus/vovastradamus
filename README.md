@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[my idleness here too](https://codesandbox.io/u/vovastradamus)
+My Links:
+[Share links to TV](https://tv.octomage.com)
 
 <!--
 **vovastradamus/vovastradamus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
